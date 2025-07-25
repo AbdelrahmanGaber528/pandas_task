@@ -1,4 +1,4 @@
-""""🐼 Pandas Practice: DataFrames, Selection, Mapping, and More"""
+""""Pandas Practice: DataFrames, Selection, Mapping, and More"""
 import pandas as pd
 import numpy as np
 
